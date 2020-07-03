@@ -18574,5 +18574,20 @@
     "description": "A library that provides unit types in nim",
     "license": "MIT",
     "web": "https://github.com/momeemt/Unit"
+  },
+  {
+    "name": "lockfreequeues",
+    "url": "https://github.com/elijahr/lockfreequeues",
+    "method": "git",
+    "tags": [
+      "queue",
+      "lockfree",
+      "ringbuffer",
+      "circularbuffer",
+      "spsc"
+    ],
+    "description": "Lock-free queue implementations for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/elijahr/lockfreequeues"
   }
 ]
